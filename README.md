@@ -36,9 +36,12 @@ Test.py
 ### Citation
 If you use our code in your research or wish to refer to the baseline results, please use the following BibTeX entry.
 
-    @article{li2020recursive,
-    title={A Recursive Network with Dynamic Attention for Monaural Speech Enhancement},
-    author={Li, Andong and Zheng, Chengshi and Fan, Cunhang and Peng, Renhua and Li, Xiaodong},
-    booktitle={INTERSPEECH},
-    year={2020}
+    @inproceedings{Li2020,
+    author={Andong Li and Chengshi Zheng and Cunhang Fan and Renhua Peng and Xiaodong Li},
+    title={{A Recursive Network with Dynamic Attention for Monaural Speech Enhancement}},
+    year=2020,
+    booktitle={Proc. Interspeech 2020},
+    pages={2422--2426},
+    doi={10.21437/Interspeech.2020-1513},
+    url={http://dx.doi.org/10.21437/Interspeech.2020-1513}
     }
