@@ -10,7 +10,7 @@ method obtains consistent metric improvements than previous approaches.
 Put the noisy-clean pairs into ./Dataset/train and ./Dataset/dev
 
 #### Step2: 
-change the parameter settings accroding to your directory (within config.py)
+change the parameter settings according to your directory (within config.py)
 
 #### Step3: 
 Run json_extract.py to generate json files, which records the utterance file names for both training and validation set
