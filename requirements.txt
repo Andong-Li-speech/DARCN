@@ -27,7 +27,7 @@ mir-eval==0.6
 mkl-fft==1.0.12
 mkl-random==1.0.2
 numba==0.44.0
-numpy==1.18.4
+numpy==1.22.0
 olefile==0.46
 onnx==1.6.0
 onnxruntime==1.2.0
